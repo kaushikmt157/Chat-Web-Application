@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "chatapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Kaushik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json": "^11.0.0",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
